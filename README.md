@@ -5,3 +5,5 @@ This repository contains a sample documentation for Documentation Continuous Del
 ## Sample texts
 
 All sample text for sample documentation topic was by a number of `modern` lorem ipsum generatiors.
+
+## Sample placeholders
