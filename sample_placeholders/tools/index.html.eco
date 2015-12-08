@@ -1,0 +1,12 @@
+---
+layout: layoutPH
+title: serviceNamePH
+---
+
+<% dpServiceName = 'serviceNamePH' %>
+<% dpServiceNameShort = 'serviceShortNamePH' %>
+
+<% rnCollectionName = 'releaseNotesPH' %>
+<% collectionName = 'collectionNamePH' %>
+<% ifInternalUrl = 'isInternalUrlPH' %>
+<% ifInternalUrlOther = 'isInternalUrlOtherPH' %>

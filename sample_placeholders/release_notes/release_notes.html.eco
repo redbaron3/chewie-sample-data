@@ -1,0 +1,10 @@
+---
+layout: releaseNotesLayoutPH
+---
+
+<% dpServiceName = 'serviceNamePH' %>
+<% collectionName = 'collectionRN' %>
+<% ifInternal = 'isInternalPH' %>
+<% ifInternalUrl = 'isInternalUrlPH' %>
+
+<% metaInf = @getFile({relativeDirPath: @document.relativeDirPath, basename: 'meta-inf'}) %>

@@ -1,0 +1,26 @@
+{
+  "name": "Samuel L Ipsum",
+  "nameInternal": "Jackson Ipsum",
+  "type": "services",
+  "area": "Movies",
+  "source": [
+    {
+      "version": "v2",
+      "latest": true,
+      "location": "ssh://git@stash.hybris.com:7999/wookiee/docodesampledata.git",
+      "docu_dir": "/content/services/samuellipsum",
+      "baseUri": "http://slipsum.com",
+      "internalBaseUri": "http://www.pulpfiction.com",
+      "branch_or_tag": "master"
+    },
+    {
+      "version": "v1",
+      "latest": false,
+      "location": "ssh://git@stash.hybris.com:7999/wookiee/docodesampledata.git",
+      "docu_dir": "/content/services/samuellipsum",
+      "baseUri": "http://slipsum.com",
+      "internalBaseUri": "http://www.pulpfiction.com",
+      "branch_or_tag": "develop"
+    }
+  ]
+}

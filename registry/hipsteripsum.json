@@ -1,0 +1,14 @@
+{
+  "name": "Hipster Ipsum",
+  "type": "overview",
+  "area": "Overview",
+  "left_nav_area":"1",
+  "left_nav_area_element": "1",
+  "source": [
+    {
+      "location": "ssh://git@stash.hybris.com:7999/wookiee/docodesampledata.git",
+      "docu_dir": "/content/overview/hipsteripsum",
+      "branch_or_tag": "master"
+    }
+  ]
+}

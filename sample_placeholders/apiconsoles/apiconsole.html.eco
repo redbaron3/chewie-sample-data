@@ -1,0 +1,23 @@
+---
+layout: layoutPH
+title: API Console
+service: serviceNamePH
+---
+
+<% dpServiceName = 'serviceNamePH' %>
+<% dpServiceNameShort = 'serviceShortNamePH' %>
+<% dpServiceVersion = 'serviceVersionPH' %>
+<% dpServiceVersionRAML = 'serviceRAMLVersionPH' %>
+<% dpServiceInternal = 'serviceInternalPH'  %>
+<% rnCollectionName = 'rnCollectionNamePH' %>
+<% collectionName = 'collectionNamePH' %>
+<% collectionName2 = 'collectionName2PH' %>
+<% ifInternalUrl = 'internalUrlPH' %>
+<% ifInternalUrlOther = 'internalUrlOtherPH' %>
+<% ifInternal = 'internalPH' %>
+<% dbServiceUri = 'serviceUri' %>
+<% allowedArrayLength = lengthPH %>
+
+
+<!-- API Reference Generated Docu replaced by gulp-->
+rightReferencePlaceholder

@@ -1,0 +1,23 @@
+---
+layout: layoutPH
+title: serviceNamePH
+---
+
+<% collectionName = 'collectionNamePH' %>
+<% ifInternal = 'isInternalPH' %>
+<% ifInternalUrl = 'isInternalUrlPH' %>
+<% dpServiceName = 'serviceNamePH' %>
+<% dpServiceNameShort = 'serviceShortNamePH' %>
+<% dpServiceVersion = 'serviceVersionPH' %>
+<% dpServiceVersionRAML = 'serviceVersionRAML' %>
+<% dbServiceUri = 'serviceUri' %>
+
+<% rnCollectionName = 'releaseNotesPH' %>
+<% ifInternalUrlOther = 'isInternalUrlOtherPH' %>
+<% allowedArrayLength = 3 %>
+
+<!-- API Reference Generated Docu replaced by gulp-->
+rightReferencePlaceholder
+
+<!-- API Reference Generated Docu-->
+mainReferencePlaceholder

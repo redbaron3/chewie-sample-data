@@ -1,0 +1,16 @@
+{
+  "name": "Zombie Ipsum",
+  "type": "services",
+  "area": "Walkers",
+  "builder_org": "cementary",
+  "source": [
+    {
+      "builder_identifier": "zombie-ipsum",
+      "version": "v1",
+      "latest": true,
+      "location": "ssh://git@stash.hybris.com:7999/wookiee/docodesampledata.git",
+      "docu_dir": "/content/services/zombieipsum",
+      "branch_or_tag": "master"
+    }
+  ]
+}

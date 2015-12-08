@@ -1,0 +1,9 @@
+---
+layout: layoutName
+title: "serviceNamePH"
+---
+
+
+<% collectionName = 'collectionNamePH' %>
+<% dpServiceName = 'serviceNamePH' %>
+<% ifInternalUrl = 'isInternalUrlPH' %>

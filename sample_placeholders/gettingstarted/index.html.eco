@@ -1,0 +1,8 @@
+---
+layout: layoutPH
+title: serviceNamePH
+---
+
+  <!-- NOTE: This file is overwritten by the like-version in placeholders -->
+  <% dpServiceName = 'serviceNamePH' %>
+  <% dpServiceCollection = 'collectionNamePH' %>
