@@ -4,7 +4,7 @@
   "area": "Tools",
   "source": [
     {
-      "location": "ssh://git@stash.hybris.com:7999/wookiee/docodesampledata.git",
+      "location": "git@github.com:hybris/chewie-sample-data.git",
       "docu_dir": "/content/tools/veggieipsum",
       "branch_or_tag": "master"
     }
