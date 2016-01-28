@@ -11,7 +11,8 @@
       "docu_dir": "/content/services/samuellipsum",
       "baseUri": "http://slipsum.com",
       "internalBaseUri": "http://www.pulpfiction.com",
-      "branch_or_tag": "master"
+      "branch_or_tag": "master",
+      "raml": "src/main/resources/api/samuel-ipsum.raml"
     },
     {
       "version": "v1",
@@ -20,7 +21,8 @@
       "docu_dir": "/content/services/samuellipsum",
       "baseUri": "http://slipsum.com",
       "internalBaseUri": "http://www.pulpfiction.com",
-      "branch_or_tag": "develop"
+      "branch_or_tag": "develop",
+      "raml": "src/main/resources/api/samuel-ipsum.raml"
     }
   ]
 }
