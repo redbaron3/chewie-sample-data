@@ -8,7 +8,7 @@
     {
       "location": "https://github.com/hybris/chewie-sample-data.git",
       "docu_dir": "/content/overview/hipsteripsum",
-      "branch_or_tag": "https"
+      "branch_or_tag": "master"
     }
   ]
 }
