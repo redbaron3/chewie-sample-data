@@ -1,0 +1,17 @@
+{
+  "name": "Fail Ipsum",
+  "type": "services",
+  "area": "Failures",
+  "builder_org": "failing",
+  "source": [
+    {
+      "builder_identifier": "fail-ipsum",
+      "version": "v1",
+      "latest": true,
+      "location": "git@github.com:hybris/chewie-failing-address.git",
+      "docu_dir": "/content/services/failipsum",
+      "branch_or_tag": "master",
+      "raml": "src/main/resources/api/fail-ipsum.raml"
+    }
+  ]
+}
