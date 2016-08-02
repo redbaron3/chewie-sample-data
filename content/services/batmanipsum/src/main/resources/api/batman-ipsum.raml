@@ -4,6 +4,7 @@ version: v1
 baseUri: /
 mediaType: application/json
 schemas:
+    - test: !include schemas/schema.json
     -
         userInfoClaims: |
                 {
@@ -429,79 +430,7 @@ traits:
                     the user. Any details will be provided within the response payload.
                 body:
                     application/json:
-                        schema: |
-                            {
-                              "$schema":"http://json-schema.org/draft-04/schema#",
-                              "title":"error",
-                              "description":"schema for API specified errors",
-                              "type":"object",
-                              "properties":
-                              {
-                                "status":
-                                {
-                                  "type":"integer",
-                                  "description":"original HTTP error code, should be consistent with the response HTTP code",
-                                  "minimum":100,
-                                  "maximum":599
-                                },
-                                "type":
-                                {
-                                  "type":"string",
-                                  "description":"classification of the error type, lower case with underscore eg validation_failure",
-                                  "pattern":"[a-z]+[a-z_]*[a-z]+"
-                                },
-                                "message":
-                                {
-                                  "type":"string",
-                                  "description":"descriptive error message for debugging"
-                                },
-                                "moreInfo":
-                                {
-                                  "type":"string",
-                                  "format":"uri",
-                                  "description":"link to documentation to investigate further and finding support"
-                                },
-                                "details":
-                                {
-                                  "type":"array",
-                                  "description":"list of problems causing this error",
-                                  "items":
-                                  {
-                                    "$schema":"http://json-schema.org/draft-04/schema#",
-                                    "title":"errorDetail",
-                                    "description":"schema for specific error cause",
-                                    "type":"object",
-                                    "properties":
-                                    {
-                                      "field":
-                                      {
-                                        "type":"string",
-                                        "description":"a bean notation expression specifying the element in request data causing the error, eg product.variants[3].name, this can be empty if violation was not field specific"
-                                      },
-                                      "type":
-                                      {
-                                        "type":"string",
-                                        "description":"classification of the error detail type, lower case with underscore eg missing_value, this value must be always interpreted in context of the general error type.",
-                                        "pattern":"[a-z]+[a-z_]*[a-z]+"
-                                      },
-                                      "message":
-                                      {
-                                        "type":"string",
-                                        "description":"descriptive error detail message for debugging"
-                                      },
-                                      "moreInfo":
-                                      {
-                                        "type":"string",
-                                        "format":"uri",
-                                        "description":"link to documentation to investigate further and finding support for error detail"
-                                      }
-                                    },
-                                    "required":["type"]
-                                  }
-                                }
-                              },
-                              "required":["status" , "type" ]
-                            }
+                        schema: test
                         example: |
                             {
                               "status":401,
