@@ -24,11 +24,9 @@ schemas:
                   }
                 }
 traits:
-    -
-        oauth2:
-            description: |
-                Supports OAuth 2.0 for authenticating all API requests.
-            usage: Apply this trait to support OAuth 2.0 authentication.
+  - !include https://api.yaas.io/patterns/v2/trait-oauth2.yaml
+  - !include https://api.yaas.io/patterns/v2/trait-yaas-aware.yaml
+
 /authorize:
     description: |
         The OAuth2 Authorization Endpoint is used to authenticate and obtain an authorization grant.<br/>
@@ -311,6 +309,7 @@ traits:
                     </ul>
                     For more information, see the <a target="blank" title="OAuth2 RFC 6749" href="http://tools.ietf.org/html/rfc6749#section-4.2.2.1">OAuth 2.0 specification (rfc6749#section-4.2.2.1)</a>.</li>
 /token:
+  is: [yaasAware]
     post:
         description: |
             The token endpoint. Use only one of the authorization types: `header`, or `client_id` and `client_secret` parameters.
