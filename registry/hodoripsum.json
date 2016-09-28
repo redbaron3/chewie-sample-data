@@ -8,6 +8,7 @@
       "builder_identifier": "hodor-ipsum",
       "version": "v1",
       "latest": true,
+      "markets": ["beta","de"],
       "location": "https://github.com/hybris/chewie-sample-data.git",
       "docu_dir": "/content/services/hodoripsum",
       "branch_or_tag": "master",
