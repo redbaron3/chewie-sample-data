@@ -1,7 +1,7 @@
 #%RAML 0.8
 title: Batman Ipsum Service
 version: v1
-baseUri: /
+baseUri: https://api.yaas.io/batmanipsum/v1
 mediaType: application/json
 schemas:
     -
@@ -419,8 +419,8 @@ traits:
                         schema: userInfoClaims
                         example: |
                             {
-                            	"sub": "test@hybris.com",
-                            	"tenant": "sampleTenant"
+                              "sub": "test@hybris.com",
+                              "tenant": "sampleTenant"
                             }
             "401":
                 description: |
@@ -611,8 +611,8 @@ traits:
                         schema: userInfoClaims
                         example: |
                             {
-                            	"sub": "test@hybris.com",
-                            	"tenant": "sampleTenant"
+                              "sub": "test@hybris.com",
+                              "tenant": "sampleTenant"
                             }
             "401":
                 description: |
