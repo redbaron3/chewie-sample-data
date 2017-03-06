@@ -1,8 +1,7 @@
 ---
-date: June 28, 1651
+date: April 28, 1651
 service: 'Bacon Ipsum'
-previous_version_shutdown_date: June 18, 1651
-official_version: '1.2.3'
+headline: 'Tenderloin shank frankfurter biltong, kielbasa filet mignon porchetta pancetta sirloin'
 ---
 
 Bacon ipsum dolor amet andouille venison boudin frankfurter. Tenderloin shank frankfurter biltong, kielbasa filet mignon porchetta pancetta sirloin. Flank cow swine tenderloin, ground round sirloin meatloaf t-bone chicken chuck prosciutto ball tip pig corned beef picanha. Bacon ham tenderloin pastrami frankfurter beef jerky alcatra, jowl meatloaf andouille pork capicola ham hock pork loin. Frankfurter ribeye pork chop, hamburger meatball strip steak kevin short ribs meatloaf drumstick flank bacon brisket short loin. Turkey ribeye beef ribs ham hock picanha meatball chicken alcatra. Tenderloin hamburger pork loin, bacon kielbasa tail sirloin beef.
