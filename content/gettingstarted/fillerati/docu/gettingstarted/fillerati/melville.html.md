@@ -1,7 +1,6 @@
 ---
 title: Moby from Melville
 service: Fillerati
-order: 2
 ---
 
 ![Moby](img/moby.png)
