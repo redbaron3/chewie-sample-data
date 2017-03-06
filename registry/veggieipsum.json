@@ -1,7 +1,7 @@
 {
   "name": "Veggie Ipsum",
   "type": "tools",
-  "area": "Tools",
+  "area": "Resources”,
   "source": [
     {
       "location": "https://github.com/YaaS/chewie-sample-data.git",
