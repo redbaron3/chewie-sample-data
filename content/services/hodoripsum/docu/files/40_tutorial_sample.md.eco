@@ -7,14 +7,9 @@ interactive: true
 order: 40
 ---
 
-Create an element where the form loads:
 ```
-<div id="feedbackForm"></div>
-```
-<div id="feedbackForm"></div>
-
-Load a proper form:
-
-```javascript
-jQuery('#feedbackForm').load('<%- @partial('feedback_url') %>/form/basic?userMail=user.email@test.com')
+// Run this code by pushing the play button.
+// Or you can edit it.
+demo = ['great', 'interactive'];
+'Notebooks are a ' + demo[0] + ' way to create ' + demo[1] + ' tutorials.';
 ```
