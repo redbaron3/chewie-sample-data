@@ -1,0 +1,20 @@
+---
+id: 40_tutorial_sample
+title: 'Sample Tutorial'
+type: 'Tutorial'
+service: 'Hodor Ipsum'
+interactive: true
+order: 40
+---
+
+Create an element where the form loads:
+```
+<div id="feedbackForm"></div>
+```
+<div id="feedbackForm"></div>
+
+Load a proper form:
+
+```javascript
+jQuery('#feedbackForm').load('<%- @partial('feedback_url') %>/form/basic?userMail=user.email@test.com')
+```
