@@ -1,5 +1,5 @@
 ---
-id: 40_test_tutorial
+id: 30_test_tutorial
 title: 'Sample Tutorial'
 type: 'Tutorial'
 service: 'Hodor Ipsum'
@@ -13,13 +13,6 @@ tenant = {{projectId}};
 ```
 
 ```javascript
-console.log('Your project Id: ', projectId)
-```
-
-```javascript
 var demo = ['great', 'interactive'];
-```
-
-```javascript
 console.log('Notebooks are a ' + demo[0] + ' way to create ' + demo[1] + ' tutorials.');
 ```
