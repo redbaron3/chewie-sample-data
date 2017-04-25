@@ -5,30 +5,32 @@ service: 'Batman Ipsum'
 
 <%- @partial("batmanipsum_raml") %>
 
-Death does not wait for you to be ready! Death is not considerate of fair! And make no mistake, here you face death. Tiger. Jujitsu. Panther. You're skilled. But this is not a dance. And you are afraid. But not of me. Tell us Mr. Wayne, what do you fear?
+<h3>Death does not wait for you to be ready! </h3>
 
-Search him. Then I will kill you.
+Death is not considerate of fair! And make no mistake, here you face death. Tiger. Jujitsu. Panther. You're skilled. But this is not a dance. And you are afraid. But not of me. Tell us Mr. Wayne, what do you fear?
+
+<h4>Search him. Then I will kill you.</h4>
 
 But no ordinary child, a child born in hell, forged from suffering, hardened by pain. Not a man from privilege.
 
-Peace has cost you your strength. Victory has defeated you.
+<h5>Peace has cost you your strength.</h5> Victory has defeated you.
 
 You have nothing, nothing to threaten me with. Nothing to do with all your strength.
 
-It's not just your name, sir. It's your father's name. And it's all that's left of him. Don't destroy it.
+<h5>It's not just your name, sir.</h5> It's your father's name. And it's all that's left of him. Don't destroy it.
 
-There is a prison in a more ancient part of the world. A pit where men are thrown to suffer and die. But sometimes a man rises from the darkness. Sometimes, the pit sends something back.
+<h5>There is a prison in a more ancient part of the world.</h5> A pit where men are thrown to suffer and die. But sometimes a man rises from the darkness. Sometimes, the pit sends something back.
 
-I'm Batman
+<h3>I'm Batman</h3>
 
-Just you, sir? Don't worry, Master Wayne. It takes a little time to get back in the swing of things.
+<h4>Just you, sir?</h4> Don't worry, Master Wayne. It takes a little time to get back in the swing of things.
 
-You see, I'm a guy of simple taste. I enjoy dynamite and gunpowder and gasoline.
+<h5>You see, I'm a guy of simple taste.</h5> I enjoy dynamite and gunpowder and gasoline.
 
 How can you move faster than possible, fight longer than possible, without the most powerful impulse of the spirit? The fear of death.
 
-You can swapnot sleeping in a penthouse... for not sleeping in a mansion. Whenever you stitch yourself up, you do make a bloody mess.
+<h4>You can swapnot sleeping in a penthouse... for not sleeping in a mansion.</h4> Whenever you stitch yourself up, you do make a bloody mess.
 
-The first time I stole so that I wouldn't starve, yes. I lost many assumptions about the simple nature of right and wrong. And when I traveled I learned the fear before a crime and the thrill of success. But I never became one of them.
+<h5>The first time I stole so that I wouldn't starve, yes.</h5> I lost many assumptions about the simple nature of right and wrong. And when I traveled I learned the fear before a crime and the thrill of success. But I never became one of them.
 
-I told you I was immortal. Oh there are many forms of immortality.
+<h4>I told you I was immortal.</h4> <h5>Oh there are many forms of immortality.</h5>
