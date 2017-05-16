@@ -7,7 +7,7 @@
     {
       "version": "v2",
       "latest": true,
-      "markets": ["beta","de","us"],
+      "markets": ["de","beta","us"],
       "location": "https://github.com/YaaS/chewie-sample-data.git",
       "docu_dir": "/content/services/samuellipsum",
       "baseUri": "http://slipsum.com",
