@@ -8,7 +8,7 @@
       "builder_identifier": "hodor-ipsum",
       "version": "v1",
       "latest": true,
-      "markets": ["beta", "global", "at", "be", "ch", "de", "es", "fi", "fr", "gb", "it", "nl", "no", "pl", "se", "us"],
+      "markets": ["at", "be", "beta", "ch", "de", "es", "fi", "fr", "gb", "global", "it", "nl", "no", "pl", "se", "us"],
       "location": "https://github.com/YaaS/chewie-sample-data.git",
       "docu_dir": "/content/services/hodoripsum",
       "branch_or_tag": "feature/h3Tags",
