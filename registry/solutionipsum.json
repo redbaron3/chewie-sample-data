@@ -3,7 +3,7 @@
     "type": "solutions",
     "source": [
         {
-          "location": "https://github.com/YaaS/docpad-skeleton-apidocs-sampledata.git",
+          "location": "https://github.com/YaaS/chewie-sample-data.git",
           "docu_dir": "/content/solutions/solutionipsum",
           "branch_or_tag": "master"
         }
