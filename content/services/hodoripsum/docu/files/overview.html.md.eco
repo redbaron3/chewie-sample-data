@@ -3,7 +3,7 @@ title: 'Overview'
 service: 'Hodor Ipsum'
 ---
 
-![Hodor](img/hodor.png)
+<img src="img/hodor.png" class="image-testing" alt="Hodor">
 
 <%- @partial('hodoripsum_reuse') %>
 
