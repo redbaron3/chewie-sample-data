@@ -11,7 +11,7 @@
       "markets": ["at", "be", "beta", "ch", "de", "es", "fi", "fr", "gb", "global", "it", "nl", "no", "pl", "se", "us"],
       "location": "https://github.com/YaaS/chewie-sample-data.git",
       "docu_dir": "/content/services/hodoripsum",
-      "branch_or_tag": "feature/h3Tags",
+      "branch_or_tag": "master",
       "raml": "/content/services/hodoripsum/src/main/resources/api/hodor-ipsum.raml"
     }
   ]
