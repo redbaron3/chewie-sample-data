@@ -15,4 +15,13 @@ Hodor hodor HODOR! Hodor hodor; hodor hodor - hodor. Hodor hodor - HODOR hodor, 
 
 Hodor, hodor. Hodor. Hodor, hodor - hodor... Hodor hodor hodor, hodor. Hodor hodor. Hodor. Hodor, hodor hodor... Hodor hodor hodor. Hodor, hodor... Hodor hodor hodor hodor hodor hodor hodor? Hodor hodor HODOR! Hodor hodor hodor... Hodor hodor hodor... Hodor hodor hodor? Hodor, hodor. Hodor. Hodor, hodor, hodor. Hodor hodor - hodor - hodor. Hodor hodor, hodor. Hodor hodor, hodor, hodor hodor.
 
+```
+graph LR
+  a1(Hodor) --> b1(Hodor!)
+  b1 --> c1(HODOR)
+  c1 --> d1(HODOR!)
+  d1 -->|Hodor!|e1(Hooodooor!!!)
+  e1 -->|Hodor?|a1
+```
+
 Hodor hodor - hodor... Hodor hodor HODOR hodor, hodor hodor - hodor, hodor, hodor hodor. Hodor HODOR hodor, hodor hodor, hodor. Hodor hodor?! Hodor. Hodor hodor hodor hodor, hodor. Hodor hodor hodor! Hodor. Hodor hodor, hodor. Hodor hodor, hodor. Hodor hodor?! Hodor, hodor. Hodor. Hodor, hodor hodor hodor! Hodor hodor - hodor; hodor hodor; hodor hodor, hodor, hodor hodor. Hodor hodor - HODOR hodor, hodor hodor. Hodor hodor HODOR! Hodor hodor... Hodor hodor HODOR hodor, hodor hodor?!
